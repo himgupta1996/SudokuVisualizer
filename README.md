@@ -12,3 +12,5 @@ visualizer of the backtracking algorithm used to solve it. This SUDOKU has the f
 4. Space Bar: The Sudoku Solver comes into picture and let you visualize how the computer solves the problem using backtraking algorithm.
 5. If you enter a value that defys the sudoku rule, a red bounding box will be showed till the value is not rectified.
 4. X: Close the Sudoku Game.
+
+![image](https://user-images.githubusercontent.com/7936928/103102754-77b47380-4643-11eb-94f5-8f29ecdc42d1.png)
